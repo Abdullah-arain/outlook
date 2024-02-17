@@ -1,0 +1,10 @@
+@tailwind base;
+
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 500 900;
+    src: url('./pxiByp8kv8JHgFVrLGT9Z11lFc-K.woff2');
+    font-style: normal;
+    font-display: swap;
+    font-stretch: 75% 125%;
+  }
